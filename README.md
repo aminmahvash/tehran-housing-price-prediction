@@ -22,7 +22,7 @@ After testing different regression models, here are the accuracy results based o
 - **Parking/Warehouse/Elevator**: Boolean features (0 or 1).
 - **Address**: Encoded location data.
 
-## 🚀 How to Use
+## How to Use
 1. Clone the repository.
 2. Ensure you have `scikit-learn`, `pandas`, `numpy`, and `seaborn` installed.
 3. Open `Tehran_Housing_Prediction.ipynb` to see the full analysis and visualizations.

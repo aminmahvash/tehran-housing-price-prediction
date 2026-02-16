@@ -24,5 +24,5 @@ After testing different regression models, here are the accuracy results based o
 
 ## 🚀 How to Use
 1. Clone the repository.
-2. Ensure you have `scikit-learn`, `pandas`, and `seaborn` installed.
+2. Ensure you have `scikit-learn`, `pandas`, `numpy`, and `seaborn` installed.
 3. Open `Tehran_Housing_Prediction.ipynb` to see the full analysis and visualizations.
